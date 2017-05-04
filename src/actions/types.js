@@ -1,0 +1,2 @@
+export const CHANGE_THE_NAME = 'CHANGE_THE_NAME'
+export const CHANGE_THE_EMAIL = 'CHANGE_THE_EMAIL'
